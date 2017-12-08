@@ -1,0 +1,27 @@
+export const BUYER_LOGIN = 'BUYER_LOGIN'
+export const BUYER_AUTO_LOGIN = 'BUYER_AUTO_LOGIN'
+export const GET_TAKE_DELIVERY_ADDR = 'GET_TAKE_DELIVERY_ADDR'
+
+export const AD_GET_HOME_LIST = 'AD_GET_LIST'
+
+export const GOODS_GET_EXPLOSION_LIST = 'GOODS_GET_EXPLOSION_LIST'
+export const GOODS_EXPLOSION_LOADMORE = 'GOODS_EXPLOSION_LOADMORE'
+export const GOODS_GOODS_DETAIL = 'GOODS_GOODS_DETAIL'
+
+export const GET_SUPPLIER_INFO = 'GET_SUPPLIER_INFO'
+
+export const GET_CART_INFO = 'GET_CART_INFO'
+export const ADD_TO_CART = 'ADD_TO_CART'
+export const SET_GOODS_NUM = 'SET_GOODS_NUM'
+export const REMOVE_GOODS = 'REMOVE_GOODS'
+export const CART_ALL_SELECTED = 'CART_ALL_SELECTED'
+export const CART_ITEM_SELECTED = 'CART_ITEM_SELECTED'
+export const CART_GOODS_SELECTED = 'CART_GOODS_SELECTED'
+
+export const GET_BANKCARD_LIST = 'GET_BANKCARD_LIST'
+
+export const GET_ORDER_LIST = 'GET_ORDER_LIST'
+export const GET_ORDER_SETTLE_INFO = 'GET_ORDER_SETTLE_INFO'
+export const CHANGE_CONFIRM_ADDRESS = 'CHANGE_CONFIRM_ADDRESS'
+ export const Foo = { template: '<div>foo</div>' }
+export const Bar = { template: '<div>bar</div>' }
